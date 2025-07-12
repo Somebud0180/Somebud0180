@@ -1,9 +1,11 @@
 # Welcome!
-<img src=https://github.com/Somebud0180/Somebud0180/blob/04a80c66ad9b0e1b3cf06b1ef64ae05a051903cd/Swift%20Playgrounds%20Byte.png alt="Byte from Swift Playgrounds™️" height=200 align=right>
+<img src=https://github.com/Somebud0180/Somebud0180/blob/04a80c66ad9b0e1b3cf06b1ef64ae05a051903cd/Swift%20Playgrounds%20Byte.png alt="Byte from Swift Playgrounds™️" height=150 align=right>
 
 - 👋 Hi, I’m @Somebud0180
 - 🌱 I’m currently learning Linux (Debian)
 - 🤗 Understanding GitHub
+
+https://github-readme-stats.hackclub.dev/api/wakatime?username=13024&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark_dimmed
 
 <footer>
 
