@@ -3,7 +3,7 @@
   <span>@Somebud0180</span>
 </h1>
 
-<img width="40%" alt="SCR-20251224-bfeq" src="https://github.com/user-attachments/assets/d9670b46-657d-4d14-8f4b-d9c8b81196e7" align=right />
+<img width="35%" alt="SCR-20251224-bfeq" src="https://github.com/user-attachments/assets/d9670b46-657d-4d14-8f4b-d9c8b81196e7" align=right />
 
 ### Hai!
 - Hi, I’m @Somebud0180 (Somebud, Somebuddie everywhere else)
